@@ -1,0 +1,109 @@
+$font_theme: 14px Arial;
+$font_h: 'Lobster';
+$margin_theme: 20px;
+// theme style
+body {
+	font: $font_theme;
+}
+
+h1 {
+	a {
+		color:#FCA205;
+		font-family: $font_h;
+		&:hover {
+			text-decoration: inherit;
+			color: #926008;
+		}
+	}
+}
+
+
+.navbar-brand {
+	padding: 0;
+	img {
+		height: 50px;
+	}
+}
+
+img {
+    max-width: 100%
+}
+
+h1, h2, h3, h4 {
+    font-family: $font_h, cursive;
+}
+
+.page-header {
+        margin-top: 0;
+        padding: $margin_theme $margin_theme*2;
+        margin: 0 -15px $margin_theme;
+        position: relative;
+        text-align: center;
+        h1, h1 a, h1 a:visited,h1 a:active {
+	        font-size: 36pt;
+	        text-decoration: none;
+            display:inline-block;
+		}
+    }
+
+.info {
+    color: #828282;
+    margin-bottom: $margin_theme;
+    &.page_blog {
+        float: right;
+        font-size: 36pt;
+        color: white;
+        display: inline;
+        margin-top: 20px;
+        a {
+            color:white;
+        }
+    }
+}
+article {
+    position: relative;
+    overflow: hidden;
+    .image-block {
+        float: left;
+        width: 40%;
+        + .post-block {
+            float: right;
+            width: 60%;
+            padding-left: 20px;
+        }
+    }
+    .post-block {
+        width: 100%;
+    }
+    
+}
+
+
+
+.post-form textarea, .post-form input {
+        width: 100%;
+}
+
+.top-menu {
+    padding:18px 0;
+    margin-bottom: 0;
+    a {
+        margin-left:15px;
+    }
+
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+.header_post {
+    h1 {
+        display: inline-block;
+    }
+    .info_block {
+        display: inline-block;
+        float: right;
+        margin-top: $margin_theme;
+    }
+}

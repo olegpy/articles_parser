@@ -1,0 +1,45 @@
+{% extends "articles/base.html" %} 
+
+
+{% block content_article %}
+<div class="col-md-12">
+    {% for article in articles %}
+    <article>
+        {% if article.image %}
+        <div class="image-block"><img src="{{ MEDIA_URL }}/{{ article.image }}" alt="{{ article.header }}"></div>
+        {% endif %}
+        <div class="post-block">
+            {{ article_detail }}
+            <h1><a href="{% url 'article_detail' article.id %}">{{ article.title }}</a></h1>
+            <div class='info'>
+                Author: {{ article.author }}
+            </div>
+            <p>{{ article.text }}</p>
+        </div>
+    </article>
+    <hr/> 
+
+    {% empty %}
+    <p>No posts</p>
+    {% endfor %}
+
+    <nav class="text-center">
+        <ul class="pagination">
+            {% if page_obj.has_previous %}
+            <li>
+                <a class="historyAPI" href="?page={{ page_obj.previous_page_number }}" aria-label="Previous">
+                    << previous</a>
+            </li>
+            {% endif %} {% for page in page_obj.paginator.page_range %} {% if page == page_obj.number %}
+            <li class="active"><a class="historyAPI" href="?page={{ page }}">{{ page }}</a></li>
+            {% else %}
+            <li><a class="historyAPI" href="?page={{ page }}">{{ page }}</a></li>
+            {% endif %} {% endfor %} {% if page_obj.has_next %}
+            <li>
+                <a class="historyAPI" href="?page={{ page_obj.next_page_number }}" aria-label="Next">next >></a>
+            </li>
+            {% endif %}
+        </ul>
+    </nav>
+</div>
+{% endblock %} {# {% url 'article_detail' article.id %} #}

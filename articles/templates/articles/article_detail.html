@@ -1,0 +1,17 @@
+{% extends "articles/base.html" %} 
+
+{% block content_article %}
+<article>
+    {% if article.image %}
+    <div class="image-block"><img src="{{ MEDIA_URL }}/{{ article.image }}" alt="{{ article.header }}"></div>
+    {% endif %}
+    <div class="post-block">
+        {{ article_detail }}
+        <h1>{{ article.title }}</h1>
+        <div class='info'>
+            Author: {{ article.author }}
+        </div>
+        <p>{{ article.text }}</p>
+    </div>
+</article>
+{% endblock %}
