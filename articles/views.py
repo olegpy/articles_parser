@@ -25,5 +25,3 @@ class PostDetailView(DetailView):
         context = super(PostDetailView, self).get_context_data(**kwargs)
         context['page_title'] = "Article detail"
         return context
-
-# Create your views here.

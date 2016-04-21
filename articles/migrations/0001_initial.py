@@ -17,7 +17,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
                 ('title', models.CharField(max_length=200)),
-                ('image', models.FileField(upload_to=b'static/img/uploads/%Y/%m/%d/')),
+                ('image', models.FileField(upload_to=b'static/img/uploads/%Y/%m/%d/', blank=True)),
                 ('text', models.TextField()),
                 ('is_published', models.BooleanField(default=True)),
                 ('author', models.ForeignKey(to=settings.AUTH_USER_MODEL)),
