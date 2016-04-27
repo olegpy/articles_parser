@@ -5,25 +5,40 @@
 </div>
 <script type='text/javascript'>
     function ajax_req(){
+        var articleOffset = 5;
         $.ajax({
             url: "{% url 'ajax_view' %}",
             type: "GET",
             data: JSON.parse(JSON.stringify("{{articles|safe}}")),
             dataType: "json",
             success: function(data) {
-                $.each(data, function (index, value) {
-                    $('.content-article').append('<article>'+ 
-                        (value.image > '' ? '<div class="image-block"><img src="' + value.image + '" alt="image"></div>' : '') +
-                        '<div class="post-block">'+
-                        '<h1><a href="/' +  value.pk + '/">' +  value.title + '</a></h1>'+
-                        '<p>' + value.text +'</p></div></article><hr/> ')
-                });
+                if (data.length > 0) {
+                    $.each(data, function (index, value) {
+                        $('.content-article').append('<article>'+ 
+                            (value.image > '' ? '<div class="image-block"><img src="' + value.image + '" alt="image"></div>' : '') +
+                            '<div class="post-block">'+
+                            '<h1><a href="/' +  value.pk + '/">' +  value.title + '</a></h1>'+
+                            '<p>' + value.text +'</p></div></article><hr/> ')
+                    });
+                    $('.content-article').append('<button type="submit" value="bar" id="loadMore">Bar</button>')
+                    articleOffset += 5
+                } else {
+                    $('.content-article').append('No articles found');
+                }
             }
         });
     }
     /* Manually initiate the first ajax request */
     $(document).ready(function() {
         ajax_req();
+
+        $('#loadMore').click(function () {
+            x= (x+5 <= size_li) ? x+5 : size_li;
+            $('#myList li:lt('+x+')').show();
+        });
+        $(document).on("click", ":submit", function(e){
+    alert($(this).val());
+});
     });
 </script>
 </div>

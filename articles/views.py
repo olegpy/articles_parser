@@ -17,9 +17,13 @@ class HomePageView(TemplateView):
 
 
 def ajax_view(request):
+    total = 5
+    offset = request.GET.get('offset', 0)
+    end = offset + total
+    print end
     if request.method == 'GET' and request.is_ajax():
         articles = Article.objects.filter(
-            is_published=True).values('title', 'image', 'text', 'pk', 'author')
+            is_published=True).values('title', 'image', 'text', 'pk')[0:end]
         return HttpResponse(json.dumps(list(articles)), content_type='application/json')
 
 
