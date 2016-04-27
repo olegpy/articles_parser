@@ -12,8 +12,11 @@
             dataType: "json",
             success: function(data) {
                 $.each(data, function (index, value) {
-                    console.log(value);
-                    console.log(index)
+                    $('.content-article').append('<article>'+ 
+                        (value.image > '' ? '<div class="image-block"><img src="' + value.image + '" alt="image"></div>' : '') +
+                        '<div class="post-block">'+
+                        '<h1><a href="/' +  value.pk + '/">' +  value.title + '</a></h1>'+
+                        '<p>' + value.text +'</p></div></article><hr/> ')
                 });
             }
         });
