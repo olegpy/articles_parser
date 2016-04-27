@@ -1,19 +1,26 @@
-from django.views.generic.list import ListView
+from django.views.generic.base import TemplateView
+from django.http import HttpResponse
 from django.views.generic.detail import DetailView
+import json
+
 
 from .models import Article
 
 
-class PostListView(ListView):
-    queryset = Article.objects.filter(is_published=True)
-    paginate_by = 5
-    template_name = 'articles/article_list.html'
-    context_object_name = 'articles'
+class HomePageView(TemplateView):
+    template_name = "articles/article_list.html"
 
     def get_context_data(self, **kwargs):
-        context = super(PostListView, self).get_context_data(**kwargs)
+        context = super(HomePageView, self).get_context_data(**kwargs)
         context['page_title'] = "Article list"
         return context
+
+
+def ajax_view(request):
+    if request.method == 'GET' and request.is_ajax():
+        articles = Article.objects.filter(
+            is_published=True).values('title', 'author')
+        return HttpResponse(json.dumps(list(articles)), content_type='application/json')
 
 
 class PostDetailView(DetailView):
