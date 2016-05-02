@@ -1,45 +1,62 @@
 {% extends "articles/base.html" %} 
 
 {% block content_article %}
+
 <div class="content-article">
+    <div class="block-article"></div>
+    {% csrf_token %}
+    <input type="hidden" class="count" value="5">
+    <button name="load_more" class="load_more btn btn-default">Load more</button>
 </div>
 <script type='text/javascript'>
-    function ajax_req(){
-        var articleOffset = 5;
+/* Manually initiate the first ajax request */
+$(document).ready(function() {
+    ajax_req();
+    $('.load_more').click(function() {
+        var $input = $('.count')
+        $input.val(parseInt($input.val()) + 5)
+        $input.change();
+        //ajax POST
         $.ajax({
             url: "{% url 'ajax_view' %}",
-            type: "GET",
-            data: JSON.parse(JSON.stringify("{{articles|safe}}")),
+            type: 'POST',
+            data: {
+                count: JSON.parse(JSON.stringify($input.val())),
+                'csrfmiddlewaretoken': '{{ csrf_token }}'
+            },
             dataType: "json",
             success: function(data) {
-                if (data.length > 0) {
-                    $.each(data, function (index, value) {
-                        $('.content-article').append('<article>'+ 
-                            (value.image > '' ? '<div class="image-block"><img src="' + value.image + '" alt="image"></div>' : '') +
-                            '<div class="post-block">'+
-                            '<h1><a href="/' +  value.pk + '/">' +  value.title + '</a></h1>'+
-                            '<p>' + value.text +'</p></div></article><hr/> ')
-                    });
-                    $('.content-article').append('<button type="submit" value="bar" id="loadMore">Bar</button>')
-                    articleOffset += 5
-                } else {
-                    $('.content-article').append('No articles found');
-                }
+                $('.block-article').empty();
+                ajax_success(data);
             }
         });
-    }
-    /* Manually initiate the first ajax request */
-    $(document).ready(function() {
-        ajax_req();
-
-        $('#loadMore').click(function () {
-            x= (x+5 <= size_li) ? x+5 : size_li;
-            $('#myList li:lt('+x+')').show();
-        });
-        $(document).on("click", ":submit", function(e){
-    alert($(this).val());
-});
     });
+});
+
+function ajax_req() {
+    $.ajax({
+        url: "{% url 'ajax_view' %}",
+        type: "GET",
+        data: JSON.parse(JSON.stringify("{{articles|safe}}")),
+        dataType: "json",
+        success: function(data) {
+            if (data.length > 0) {
+                ajax_success(data);
+            } else {
+                $('.block-article').append('No articles found');
+            }
+        }
+    });
+}
+
+function ajax_success(data) {
+    for (i = 0; i < data.length; i++) {
+        $('.block-article').append('<article>' +
+            (data[i].image > '' ? '<div class="image-block"><img src="' + data[i].image + '" alt="image"></div>' : '') +
+            '<div class="post-block">' +
+            '<h1><a href="/' + data[i].pk + '/">' + data[i].title + '</a></h1>' +
+            '<p>' + data[i].text + '</p></div></article><hr/> ')
+    }
+}
 </script>
-</div>
 {% endblock %}

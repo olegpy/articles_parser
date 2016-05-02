@@ -1,6 +1,7 @@
 from django.views.generic.base import TemplateView
 from django.http import HttpResponse
 from django.views.generic.detail import DetailView
+from django.views.decorators.csrf import csrf_exempt
 import json
 
 
@@ -16,15 +17,22 @@ class HomePageView(TemplateView):
         return context
 
 
+@csrf_exempt
 def ajax_view(request):
-    total = 5
-    offset = request.GET.get('offset', 0)
-    end = offset + total
-    print end
+    end = 5
+    if request.method == 'POST' and request.is_ajax():
+        end = request.POST.get('count', 0)
+        return ajax_response(end)
+
     if request.method == 'GET' and request.is_ajax():
-        articles = Article.objects.filter(
-            is_published=True).values('title', 'image', 'text', 'pk')[0:end]
-        return HttpResponse(json.dumps(list(articles)), content_type='application/json')
+        return ajax_response(end)
+
+
+def ajax_response(end):
+    articles = Article.objects.filter(
+        is_published=True).values('title', 'image', 'text', 'pk')[:end]
+    return HttpResponse(json.dumps(list(articles)),
+                        content_type='application/json')
 
 
 class PostDetailView(DetailView):
