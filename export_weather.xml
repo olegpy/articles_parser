@@ -1,1 +1,724 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><exchangerates><row><exchangerate ccy="EUR" base_ccy="UAH" buy="28.30000" sale="28.60000"/></row><row><exchangerate ccy="RUR" base_ccy="UAH" buy="0.37000" sale="0.38500"/></row><row><exchangerate ccy="USD" base_ccy="UAH" buy="25.05000" sale="25.35000"/></row><row><exchangerate ccy="BTC" base_ccy="USD" buy="427.0830" sale="472.0391"/></row></exchangerates>
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="lt-ie9" xmlns:fb="//ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 8]><!--><html xmlns:fb="//ogp.me/ns/fb#"><!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SINOPTIK: Погода на 03 травня у Харкові, прогноз погоди на вівторок. Метеопрогноз Харків та Україна на 03 травня</title>
+    <meta name="title" content="SINOPTIK: Погода на 03 травня у Харкові, прогноз погоди на вівторок. Метеопрогноз Харків та Україна на 03 травня" />
+<meta name="description" content="Погода у Харкові на 03 травня. Детальний прогноз погоди на 03 травня  у Харкові. Метеопрогноз від SINOPTIK, Харківська область" />
+<meta name="keywords" content="погода у Харкові на 03 травня, прогноз погоди на 03 травня у Харкові, погода на 03 травня, прогноз погоди у Харкові на 03 травня" />
+
+            <meta property="og:title" content="Погода у Харкові"/>
+        <meta property="og:type" content="company"/>
+        <meta property="og:url" content="//ua.sinoptik.ua/погода-харків"/>
+        <meta property="og:image" content="//sinst.fwdcdn.com/img/newImg/sinLogo.png"/>
+        <meta property="og:site_name" content="SINOPTIK.UA"/>
+        <meta property="og:description" content="Прогноз погоди у Харкові"/>
+        <meta property="fb:app_id" content="243438275713069" />
+        <link type="text/css" rel="stylesheet" href="//sinst.fwdcdn.com/css/116/main.css"/>
+    <link rel="apple-touch-icon" href="//sinst.fwdcdn.com/img/newImg/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//sinst.fwdcdn.com/img/newImg/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//sinst.fwdcdn.com/img/newImg/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//sinst.fwdcdn.com/img/newImg/touch-icon-ipad-retina.png">
+    </head>
+<body class="ua" >
+<div id="wrapper">
+    <div class="b-top_place"><div id="adriver_728x90_sinoptik"></div></div>    <div id="header" class="clearfix">
+        <div class="bLogo">
+            <img src="//sinst.fwdcdn.com/img/newImg/sinoptic-logo.png" alt="погода" title="погода" />
+            <a class="sLogo" href="//ua.sinoptik.ua/" title="погода">Прогноз погоды</a>
+        </div>
+        <form id="form-search" action="//ua.sinoptik.ua/redirector" method="get">
+            <p class="clearfix">
+                <input autocomplete="off" id="search_city" name="search_city" type="text" placeholder="Назва населеного пункту, країни або регіону" value="" />
+                <input class="search_city-submit" type="submit" value="Погода"/>
+            </p>
+            <p id="form-search-examples"></p>
+        </form>
+        <a class="itypeSwitcher" style="display:none;" href="javascript:;" onclick="SIN.utility.cookie('_itype','smart',{expires:1});location.reload();">Мобільна версія сайту</a>
+        <div id="sLang">
+            Sinoptik.ua
+                            <a href="//sinoptik.ua/погода-харьков/2016-05-03" rel="alternate" hreflang="ru" title="погода в Харькове">на русском</a>
+                    </div>
+                    <!--noindex-->
+                            <div class="informerTop js-informerTop"></div>
+                            <!--/noindex-->
+                <div class="cityName cityNameShort">
+                    <h1>
+                Погода                                    <span>
+                        <strong>
+                            на 03 травня 2016                        </strong>
+                        у Харкові                    </span>
+                            </h1>
+            <div class="currentRegion">Обласний центр Харківської області</div>
+</div>
+<div id="topMenu" class="dCatalogOpen">
+                            <span class="tMenu">
+                7 днів            </span>
+                <a class="menu-item" title="Погода у Харкові на 10 днів" href="//ua.sinoptik.ua/погода-харків/10-днів">
+            10 днів        </a>
+        <a class="otherCity" href="//ua.sinoptik.ua/україна/харківська-область">
+        обрати інше місто    </a>
+</div>
+    </div>
+            <div id="content" class="clearfix">
+        <div id="leftCol">
+            <div style="position:relative"><div class="under-termometr"><div id="adriver_210x67"></div></div></div><div id="mainContentBlock"><div id="blockDays" data-city-id="303027839" class="bd2">
+    <div class="tabs">
+        <div class="first">&nbsp;</div>
+                    <div class="main " id="bd1">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків" title="Погода у Харкові" href="//ua.sinoptik.ua/погода-харків">Понеділок</a></p>
+                                <p class="date dateFree">02</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d100" title="Невелика хмарність"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d100.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+6&deg;</span></div>
+                    <div class="max">макс. <span>+19&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid1">&nbsp;</div>
+                                <div class="main loaded" id="bd2">
+                                                                <p class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-03">Вівторок</p>
+                                <p class="date ">03</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d200" title="Мінлива хмарність"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d200.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+8&deg;</span></div>
+                    <div class="max">макс. <span>+16&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid2">&nbsp;</div>
+                                <div class="main " id="bd3">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-04" title="погода у Харкові на 04 травня Середа" href="//ua.sinoptik.ua/погода-харків/2016-05-04">Середа</a></p>
+                                <p class="date ">04</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d300" title="Хмарно з проясненнями"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d300.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+9&deg;</span></div>
+                    <div class="max">макс. <span>+18&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid3">&nbsp;</div>
+                                <div class="main " id="bd4">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-05" title="погода у Харкові на 05 травня Четвер" href="//ua.sinoptik.ua/погода-харків/2016-05-05">Четвер</a></p>
+                                <p class="date ">05</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d100" title="Невелика хмарність"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d100.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+10&deg;</span></div>
+                    <div class="max">макс. <span>+18&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid4">&nbsp;</div>
+                                <div class="main " id="bd5">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-06" title="погода у Харкові на 06 травня П'ятниця" href="//ua.sinoptik.ua/погода-харків/2016-05-06">П'ятниця</a></p>
+                                <p class="date ">06</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d320" title="Хмарно з проясненнями, дощ"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d320.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+9&deg;</span></div>
+                    <div class="max">макс. <span>+14&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid5">&nbsp;</div>
+                                <div class="main " id="bd6">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-07" title="погода у Харкові на 07 травня Субота" href="//ua.sinoptik.ua/погода-харків/2016-05-07">Субота</a></p>
+                                <p class="date dateFree">07</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d340" title="Хмарно з проясненнями, дощ, грози"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d340.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+10&deg;</span></div>
+                    <div class="max">макс. <span>+17&deg;</span></div>
+                </div>
+            </div>
+                            <div class="mid6">&nbsp;</div>
+                                <div class="main " id="bd7">
+                                                                <p><a class="day-link" data-link="//ua.sinoptik.ua/погода-харків/2016-05-08" title="погода у Харкові на 08 травня Неділя" href="//ua.sinoptik.ua/погода-харків/2016-05-08">Неділя</a></p>
+                                <p class="date dateFree">08</p>
+                                    <p class="month">травня</p>
+                                <div class="weatherIco d310" title="Хмарно з проясненнями, невеликий дощ"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/m/d310.gif" alt="" /></div>
+                                <div class ="temperature">
+                    <div class="min">мін. <span>+12&deg;</span></div>
+                    <div class="max">макс. <span>+20&deg;</span></div>
+                </div>
+            </div>
+                            <div class="last">&nbsp;</div>
+    </div>
+  <div class ="tabsTop"><div class ="lc"><div class ="rc"></div></div></div>
+
+  <div class="tabsContent"><div class="tabsContentInner">
+            <div class="Tab" id="bd1c"></div>
+    <div class="Tab" id="bd2c"><div class="wMain clearfix">
+    <div class="lSide">
+                    <div class="calendBlock">
+                <p class="infoDayweek">Вівторок</p>
+                <p class="infoDate">03</p>
+                                    <p class="infoMonth">травня</p>
+                            </div>
+                            <div class="infoDaylight">
+                                    Схід <span>05:04</span>
+                    Захід <span>19:58</span>
+                            </div>
+                <div class="titles">
+            <p>Температура, C</p>
+            <p><span class="Tooltip" data-tooltip="як буде відчуватися<br /> температура людиною,<br /> що одягнена по сезону">відчувається як</span></p>            <p>Тиск, мм</p>
+            <p>Вологість, %</p>
+            <p>Вітер, м/сек</p>
+            <p>Ймовірність<br /> опадів, %</p>        </div>
+    </div>
+    <div class="rSide">
+                <table class="weatherDetails">
+            <thead>
+            <tr>
+                                    <td class="" colspan="2">ніч</td>
+                                    <td class="" colspan="2">ранок</td>
+                                    <td class="" colspan="2">день</td>
+                                    <td class="noB" colspan="2">вечір</td>
+                            </tr>
+            </thead>
+            <tbody>
+            <tr class="gray time">
+                                        <td class="p1  " >0:00</td>
+                                                <td class="p2 bR " >3:00</td>
+                                                <td class="p3  " >6:00</td>
+                                                <td class="p4 bR " >9:00</td>
+                                                <td class="p5  " >12:00</td>
+                                                <td class="p6 bR " >15:00</td>
+                                                <td class="p7  " >18:00</td>
+                                                <td class="p8  " >21:00</td>
+                                    </tr>
+            <tr class="img weatherIcoS">
+                                        <td class="p1  " >
+                            <div class="weatherIco n200" title="Мінлива хмарність"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/n200.gif" alt="" /></div>
+                        </td>
+                                                <td class="p2 bR " >
+                            <div class="weatherIco n200" title="Мінлива хмарність"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/n200.gif" alt="" /></div>
+                        </td>
+                                                <td class="p3  " >
+                            <div class="weatherIco d000" title="Ясно"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/d000.gif" alt="" /></div>
+                        </td>
+                                                <td class="p4 bR " >
+                            <div class="weatherIco d000" title="Ясно"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/d000.gif" alt="" /></div>
+                        </td>
+                                                <td class="p5  " >
+                            <div class="weatherIco d400" title="Хмарно"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/d400.gif" alt="" /></div>
+                        </td>
+                                                <td class="p6 bR " >
+                            <div class="weatherIco d400" title="Хмарно"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/d400.gif" alt="" /></div>
+                        </td>
+                                                <td class="p7  " >
+                            <div class="weatherIco d400" title="Хмарно"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/d400.gif" alt="" /></div>
+                        </td>
+                                                <td class="p8  " >
+                            <div class="weatherIco n300" title="Хмарно з проясненнями"><img class="weatherImg" src="//sinst.fwdcdn.com/img/weatherImg/s/n300.gif" alt="" /></div>
+                        </td>
+                                    </tr>
+            <tr class="temperature">
+                                        <td class="p1  " >+10&deg;</td>
+                                                <td class="p2 bR " >+8&deg;</td>
+                                                <td class="p3  " >+8&deg;</td>
+                                                <td class="p4 bR " >+12&deg;</td>
+                                                <td class="p5  " >+15&deg;</td>
+                                                <td class="p6 bR " >+16&deg;</td>
+                                                <td class="p7  " >+16&deg;</td>
+                                                <td class="p8  " >+13&deg;</td>
+                                    </tr>
+                            <tr class="temperatureSens">
+                                                <td class="p1  " >+10&deg;</td>
+                                                        <td class="p2 bR " >+7&deg;</td>
+                                                        <td class="p3  " >+7&deg;</td>
+                                                        <td class="p4 bR " >+12&deg;</td>
+                                                        <td class="p5  " >+15&deg;</td>
+                                                        <td class="p6 bR " >+16&deg;</td>
+                                                        <td class="p7  " >+16&deg;</td>
+                                                        <td class="p8  " >+13&deg;</td>
+                                            </tr>
+                        <tr class="gray">
+                                        <td class="p1  " >751</td>
+                                                <td class="p2 bR " >751</td>
+                                                <td class="p3  " >751</td>
+                                                <td class="p4 bR " >750</td>
+                                                <td class="p5  " >749</td>
+                                                <td class="p6 bR " >749</td>
+                                                <td class="p7  " >749</td>
+                                                <td class="p8  " >748</td>
+                                    </tr>
+            <tr>
+                                        <td class="p1  " >80</td>
+                                                <td class="p2 bR " >84</td>
+                                                <td class="p3  " >84</td>
+                                                <td class="p4 bR " >67</td>
+                                                <td class="p5  " >52</td>
+                                                <td class="p6 bR " >50</td>
+                                                <td class="p7  " >61</td>
+                                                <td class="p8  " >77</td>
+                                    </tr>
+            <tr class="gray">
+                                        <td class="p1  " ><div data-tooltip="Північний, 2.4 м/с " class="Tooltip wind wind-N">2.4</div></td>
+                                                <td class="p2 bR " ><div data-tooltip="Північний, 2.2 м/с " class="Tooltip wind wind-N">2.2</div></td>
+                                                <td class="p3  " ><div data-tooltip="Північний, 1.8 м/с " class="Tooltip wind wind-N">1.8</div></td>
+                                                <td class="p4 bR " ><div data-tooltip="Північно-східний, 2.2 м/с " class="Tooltip wind wind-NE">2.2</div></td>
+                                                <td class="p5  " ><div data-tooltip="Східний, 3.7 м/с " class="Tooltip wind wind-E">3.7</div></td>
+                                                <td class="p6 bR " ><div data-tooltip="Східний, 3.8 м/с " class="Tooltip wind wind-E">3.8</div></td>
+                                                <td class="p7  " ><div data-tooltip="Східний, 3.1 м/с " class="Tooltip wind wind-E">3.1</div></td>
+                                                <td class="p8  " ><div data-tooltip="Східний, 2.4 м/с " class="Tooltip wind wind-E">2.4</div></td>
+                                    </tr>
+                            <tr>
+                                                <td class="p1  " >2</td>
+                                                        <td class="p2 bR " >2</td>
+                                                        <td class="p3  " >2</td>
+                                                        <td class="p4 bR " >2</td>
+                                                        <td class="p5  " >2</td>
+                                                        <td class="p6 bR " >5</td>
+                                                        <td class="p7  " >2</td>
+                                                        <td class="p8  " >2</td>
+                                            </tr>
+                        </tbody>
+        </table>
+    </div>
+</div>
+
+
+<div class="wDescription clearfix">
+    <div class="lSide">
+                        <div class="under-termometr-bg"></div>
+            </div>
+    <div class="rSide">
+        <div class="description">
+                            <!--noindex-->
+                    Ясним небо у Харкові буде тільки вранці, потім його затягне хмарами, які протримаються до пізнього вечора. Без опадів.                <!--/noindex-->
+                    </div>
+    </div>
+</div>
+<div class="oDescription clearfix">
+    <div class="lSide">
+                                    <p class="infoHistory">за останні 130 років<br/>03 травня:</p>
+                <p class="infoHistoryval">
+                    <i>макс</i>: <span>27.3&deg;</span> (1954)<br/>
+                    <i>мін</i>: <span>1.0&deg;</span> (1965)
+                </p>
+                        </div>
+    <div class="rSide">
+        <!--noindex-->
+        <div class="description"><h2>Народний прогноз погоди</h2>: 3 травня відзначається день пам&#039;яті Федора Трихини. З давніх часів існує традиція у цей день поминати своїх померлих родичів і відвідувати кладовища. Спостерігаючи за погодою наші пращури помітили, що дощ у цей день віщує хороший врожай.</div>
+        <!--/noindex-->
+        <div class="lastYear">
+                                                <a title="погода у Харкові 03 травня 2015" href="//ua.sinoptik.ua/погода-харків/2015-05-03">Погода у Харкові рік тому</a>
+                                    </div>
+    </div>
+</div>
+
+
+</div>
+    <div class="Tab" id="bd3c"></div>
+    <div class="Tab" id="bd4c"></div>
+    <div class="Tab" id="bd5c"></div>
+    <div class="Tab" id="bd6c"></div>
+    <div class="Tab" id="bd7c"></div>
+    <div class="Tab" id="bd8c"></div>
+    <div class="Tab" id="bd9c"></div>
+    <div class="Tab" id="bd10c"></div>
+    <div class="social">
+                </div>
+  </div></div>
+  <div class ="tabsBottom"><div class ="lc"><div class ="rc"></div></div></div>
+</div></div>            <!--noindex-->
+                            <div style="width:673px;margin:0 0 0 4px">
+                    <div id="left-slot1"></div>
+                    <div id="left-slot2"></div>
+                    <div id="left-slot3"></div>
+                    <div id="left-slot4"></div>
+                </div>
+                        <!--/noindex-->
+            <div id="tenOtherCities">    <div class="b-cities-weather b-cities-weatherUa">
+        <h2 class="show-weather-linkblock">
+            <span class="arr-flip"></span>
+                            <a href="//ua.sinoptik.ua/україна">
+                    Погода в Україні                </a>
+                    </h2>
+                <div id="weatherLinks" class="weatherIcoS weatherLinksUa clearfix">
+            <ul>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода в Одесі"                        class="cityLink" href="//ua.sinoptik.ua/погода-одеса"><span>
+                            <!--noindex-->Погода<!--/noindex--> в Одесі                    </span></a>
+                                            <span class="iw">
+                        +13&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Запоріжжі"                        class="cityLink" href="//ua.sinoptik.ua/погода-запоріжжя"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Запоріжжі                    </span></a>
+                                            <span class="iw">
+                        +9&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Дніпропетровську"                        class="cityLink" href="//ua.sinoptik.ua/погода-дніпропетровськ"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Дніпропетровську                    </span></a>
+                                            <span class="iw">
+                        +11&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Луганську"                        class="cityLink" href="//ua.sinoptik.ua/погода-луганськ"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Луганську                    </span></a>
+                                            <span class="iw">
+                        +11&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Львові"                        class="cityLink" href="//ua.sinoptik.ua/погода-львів"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Львові                    </span></a>
+                                            <span class="iw">
+                        +14&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                </ul>
+            <ul>                <li class="b-cities-weather-item">
+                    <a title="Погода у Чернігові"                        class="cityLink" href="//ua.sinoptik.ua/погода-чернігів"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Чернігові                    </span></a>
+                                            <span class="iw">
+                        +15&deg;<img
+                                class="weatherIco n200"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Мінлива хмарність"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Миколаєві"                        class="cityLink" href="//ua.sinoptik.ua/погода-миколаїв"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Миколаєві                    </span></a>
+                                            <span class="iw">
+                        +16&deg;<img
+                                class="weatherIco n300"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Хмарно з проясненнями"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Сумах"                        class="cityLink" href="//ua.sinoptik.ua/погода-суми"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Сумах                    </span></a>
+                                            <span class="iw">
+                        +14&deg;<img
+                                class="weatherIco n000"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Ясно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Полтаві"                        class="cityLink" href="//ua.sinoptik.ua/погода-полтава"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Полтаві                    </span></a>
+                                            <span class="iw">
+                        +16&deg;<img
+                                class="weatherIco n100"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Невелика хмарність"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Херсоні"                        class="cityLink" href="//ua.sinoptik.ua/погода-херсон"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Херсоні                    </span></a>
+                                            <span class="iw">
+                        +13&deg;<img
+                                class="weatherIco n100"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Невелика хмарність"/>
+                            </span>
+                                    </li>
+                                </ul>
+            <ul>                <li class="b-cities-weather-item">
+                    <a title="Погода у Вінниці"                        class="cityLink" href="//ua.sinoptik.ua/погода-вінниця"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Вінниці                    </span></a>
+                                            <span class="iw">
+                        +14&deg;<img
+                                class="weatherIco n300"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Хмарно з проясненнями"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Сімферополі"                        class="cityLink" href="//ua.sinoptik.ua/погода-сімферополь"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Сімферополі                    </span></a>
+                                            <span class="iw">
+                        +12&deg;<img
+                                class="weatherIco n400"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Хмарно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Житомирі"                        class="cityLink" href="//ua.sinoptik.ua/погода-житомир"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Житомирі                    </span></a>
+                                            <span class="iw">
+                        +17&deg;<img
+                                class="weatherIco n300"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Хмарно з проясненнями"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Хмельницькому"                        class="cityLink" href="//ua.sinoptik.ua/погода-хмельницький"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Хмельницькому                    </span></a>
+                                            <span class="iw">
+                        +15&deg;<img
+                                class="weatherIco n400"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Хмарно"/>
+                            </span>
+                                    </li>
+                                                <li class="b-cities-weather-item">
+                    <a title="Погода у Черкасах"                        class="cityLink" href="//ua.sinoptik.ua/погода-черкаси"><span>
+                            <!--noindex-->Погода<!--/noindex--> у Черкасах                    </span></a>
+                                            <span class="iw">
+                        +13&deg;<img
+                                class="weatherIco n200"
+                                src="//sinst.fwdcdn.com/img/t.gif" alt=""
+                                title="Мінлива хмарність"/>
+                            </span>
+                                    </li>
+                            </ul>
+                                </div>
+
+    </div>
+</div>
+            <!--noindex-->
+                            <div id="adsLeftZone3"></div>
+                        <!--/noindex-->
+        </div>
+        <div id="rightCol">
+            <!--noindex-->
+                                                            <div id="admixer_async_657326783"></div>
+                <div id="adriver_300x250_sinoptik"></div>
+                <div id="adriver_300x250_sinoptik1"></div>
+                <div id='div-gpt-ad-1424965538378-0'></div>
+                            <!-- AdSense_300x250 -->
+                                <div id='div-gpt-ad-1452079463009-0'></div>
+                            <div>
+                    <div id="right-slot1"></div>
+                    <div id="right-slot2"></div>
+                    <div id="right-slot3"></div>
+                    <div id="right-slot4"></div>
+                    <div id="right-slot5"></div>
+                    <div id="right-slot6"></div>
+                </div>
+                            <div class="informerTop"><!--noindex-->
+    <div class="informAd">
+				<p>Бажаєте, щоб на вашому сайті показувалася погода <strong>у Харкові</strong>?</p>
+		                    <span class="nofollowbot" data-href='//ua.sinoptik.ua/інформери?id=303027839'>Налаштуйте інформер та отримайте код</span>
+            </div>
+<!--/noindex-->
+
+
+</div>
+                                            <div id="sinoptik_bot_line"></div>
+                        <!--/noindex-->
+        </div>
+    </div>
+    <div id="footer">
+            <div id="b-treasures" class="clearfix">
+        <div class="b-treasures-item b-treasures-first">
+            <span class="nofollowbot b-treasures-link" data-href="//ua.sinoptik.ua/погода-на-дорогах">
+                Погода на дорогах            </span>
+        </div>
+        <div class="b-treasures-item b-treasures-two">
+            <span class="nofollowbot b-treasures-link" data-href="//ua.sinoptik.ua/гори/карпати">
+                Погода в <span>Українських Карпатах</span>            </span>
+        </div>
+        <div class="b-treasures-item b-treasures-three">
+            <span class="nofollowbot b-treasures-link" data-href="//ua.sinoptik.ua/море/середземне">
+                Погода на курортах Середземного моря            </span>
+        </div>
+        <div class="b-treasures-item  b-treasures-four">
+            <span class="nofollowbot b-treasures-link" data-href="//ua.sinoptik.ua/море/чорне">
+                Погода у Криму та інших курортах Чорного моря            </span>
+        </div>
+    </div>
+
+        <div class="bMenu">
+  <div class="city">Погода у Харкові (
+    <span class="nofollowbot" data-href="//ua.sinoptik.ua/україна">Україна</span>
+          &gt; <span class="nofollowbot" data-href="//ua.sinoptik.ua/україна/харківська-область">Харківська область</span>
+            )
+  </div>
+</div>
+
+
+
+        <div id="bfoot">
+            <div id="infoTime"></div>
+            <a href="//ua.sinoptik.ua/">Погода</a> у всіх куточках України, прогноз погоди від SINOPTIK        </div>
+    </div>
+    <div id="copyright">
+        Всі права належать &copy; 2010-2016 sinoptik.ua. Партнери проекту: Український Гідрометцентр, <img width='56' height='12' alt='FORECA' src='//sinst.fwdcdn.com/img/partners/foreca_logo.png' class='forecaLogo' />.<br/> <span class=nofollowbot data-href='//www.ukr.net/ua/terms/'>Угода про конфіденційність</span> <span class=nofollowbot data-href='//ua.sinoptik.ua/угода'>Угода користувача</span> <a href='javascript:;' onclick='feedback_show("feedback");'>Написати нам</a> <a href='javascript:;' onclick='feedback_show("ad");'>Реклама</a>        <div id="bigmirTop" style="text-align:center;"><span class="nofollowbot" data-href="http://www.bigmir.net/" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net<br/>TOP 100</span></div>
+        <span class="nofollowbot liveinternet" data-href="//www.liveinternet.ru/click"><img alt="LiveInternet" width="31" height="31" src="//sinst.fwdcdn.com/img/newImg/liveinternet.gif"></span>
+    </div>
+</div>
+<div id="tooltipS"><div class="tooltip-tip-content"></div></div>
+
+<script type="text/javascript">
+    var _gaq =_gaq||[], SIN = SIN || {};
+    SIN.globals = SIN.globals || {};
+    SIN.globals._gaId = 'UA-5903420-6';
+    SIN.globals.SITE_URI = '//ua.sinoptik.ua/';
+    SIN.globals.SITE_VERSION = 'ua';
+    SIN.globals.STATIC_DOMAIN = '//sinst.fwdcdn.com/';
+    SIN.globals.SITE_LANG = 'ua';
+    SIN.globals.COOKIE_DOMAIN = '.sinoptik.ua';
+    SIN.globals.COOKIE_LOCATION = '';
+</script>
+<script type="text/javascript" src="//sinst.fwdcdn.com/js/5/lang_ua.js"></script>
+<script type="text/javascript" src="//sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js"></script>
+<script type="text/javascript" src="//sinst.fwdcdn.com/js/11/ac.js"></script>
+<script type="text/javascript" src="//sinst.fwdcdn.com/js/1/jquery.utils.js"></script>
+<script type="text/javascript" src="//sinst.fwdcdn.com/js/101/common.js"></script>
+
+
+
+<!--bigmir)net TOP 100 Part 1-->
+<span id='obHP'></span>
+<script type="text/javascript"><!--
+    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16864144,s:16864144,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+    try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){};
+    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+    try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){}
+    try{bm.y=bmN.javaEnabled()?1:0}catch(e){}
+    try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){}
+    r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+    bm.v^=window.location.href.length;for(var x in bm) if(/^[ohvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+    //-->
+</script>
+<noscript><img src="//c.bigmir.net/?v16864144&s16864144&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+<!-- COUNTER -->
+<noscript><img src="https://counter.ukr.net/weather/cnt.php?js=n" alt="NetPromoter - регистрация сайта в поисковиках | продвижение сайта | раскрутка сайта" style="width:1px;height:1px;border:none;"/></noscript>
+<!-- /COUNTER -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+                        if(!isIE () || isIE () > 8) {
+                SIN.AdsLoader.initAds({"left":{"slot1":[{"id":503,"level":"0","type":"html","code":"<div style=\"position:absolute;visibility:hidden;height:0;\"><iframe id=\"ar_container_1\" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id=\"ad_ph_1\" class=\"banerBlock1\"><\/div>\r\n<script type=\"text\/javascript\">\r\nadriverPoster('\/\/ad.adriver.ru\/cgi-bin\/erle.cgi?sid=141297&bn=3&target=top&bt=49&pz=3', 1);\r\n<\/script>"}],"slot2":[{"id":558,"level":"0","type":"html","code":"<script type='text\/javascript'>\r\n\t(function() {\r\n\t\tvar w = window, d = document;\r\n\t\tvar protocol =\/https\/i.test(w.location.protocol) ? 'https:' : 'http:';\r\n\t\tw.amSlots = (w.amSlots || []);\r\n\t\tw.invPathB = protocol + '\/\/inv-nets.admixer.net';\r\n\t\tw.amCPath = protocol + '\/\/cdn.admixer.net\/';\r\n\t\tw.amHost = 'sf';\r\n\t\t\r\n\t\tif (!w.aml)\r\n\t\t{\r\n\t\t\tvar aml = document.createElement('script');\r\n\t\t\taml.id = 'amlScript';\r\n\t\t\taml.async = true;\r\n\t\t\taml.type = 'text\/javascript';\r\n\t\t\taml.src = w.amCPath + 'scripts3\/loader.js';\r\n\t\t\tvar node = d.getElementsByTagName('script')[0];\r\n\t\t\tnode.parentNode.insertBefore(aml, node);\r\n\t\t}\r\n\t})();\r\n\t\r\n<\/script>\r\n<div style=\"position:relative;width:673px;\">\r\n\t<div id='admixer_36c0efe9052749f9b160dbd7583a3d3b_zone_730_sect_577_site_564_rnd_1017592933' style=\"margin:0 auto 20px;\"><\/div>\r\n<\/div>\r\n<script type=\"text\/javascript\">\r\n    window.amSlots = (window.amSlots || []); window.amSlots.push({ z: '36c0efe9-0527-49f9-b160-dbd7583a3d3b', ph: 'admixer_36c0efe9052749f9b160dbd7583a3d3b_zone_730_sect_577_site_564_rnd_1017592933', i: 'inv-nets' });\r\n<\/script>","percent":10},{"id":553,"level":"0","type":"html","code":"<div id=\"holder_640x360_26\"><\/div>\r\n\r\n<script type=\"text\/javascript\">\r\nSIN.utility.load(\"\/\/i.holder.com.ua\/t\/holder.js\", {cb: function() {\r\nnew holder(\"holder_640x360_26\",{block:5726,postview:1});\t\r\nSIN.utility.loadImageCounter(\"https:\/\/ad.adriver.ru\/cgi-bin\/rle.cgi?sid=1&ad=572855&bt=21&pid=2290242&bid=4379620&bn=4379620&rnd=1678517401\");\r\n}});\r\n<\/script>\r\n","percent":20}]},"right":{"slot1":[{"id":568,"level":"0","type":"html","code":"<div id='trafmag_4e23d8e1' style=\"margin-bottom:15px\"> <\/div>\r\n<script type='text\/javascript'>\r\n(function(d,tn,u,t,b,n,s,e){\r\n s = d.createElement(tn), e = d.getElementsByTagName(tn)[0];\r\n s.src = u + '\/' + b + '-' + n + '.js'; s.type = 'text\/javascript'; s.async = 1; s.charset = 'utf-8';\r\n s.onerror = function () {try {\r\n  if (d.location.protocol == 'https:'){var wsproto = 'wss', wsport = '8041'} else {var wsproto = 'ws', wsport = '8040'}\r\n  var tm_ws = new WebSocket(wsproto + ':' + u + ':' + wsport + '\/' + b + '-' + n + '.js?ref=' + encodeURIComponent(window.location.href)),\r\n  nn='',r='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789',len=Math.random()*10+16;\r\n  for(var i=0;i<len;i++) {nn += r.charAt(Math.floor(Math.random()*r.length))}\r\n  tm_ws.onmessage = function(m) {window.eval(m.data.replace('#' + t + '_' + n, '#' + nn))}\r\n  tm_ws.onclose = function(m) {d.getElementById(t + '_' + n).id = nn}\r\n } catch(err){}}\r\n e.parentNode.insertBefore(s,e);\r\n})(document, 'script', '\/\/trafmag.com', 'trafmag', 'bannercode', '4e23d8e1');\r\n<\/script>","percent":80},{"id":543,"level":"0","type":"external","block":"<div id='yottosBlock' style='margin-bottom:15px'><\/div>","percent":20,"url":"\/\/cdn.yottos.com\/getmyad\/_a.js","globals":{"yottos_advertise":"9582144e-cc13-11e5-a26b-002590d97638","yottos_advertise_div_display":"yottosBlock"}}]},"top":{"slot1":[{"id":378,"level":"0","size":1,"type":"internal","partner_url":"http:\/\/ad.adriver.ru\/cgi-bin\/click.cgi?sid=1&amp;ad=557627&amp;bt=21&amp;pid=2341391&amp;bid=4455219&amp;bn=4455219&amp;rnd=318489704","counter":1675,"bgImg":"\/\/sinst.fwdcdn.com\/_uploaded_files\/ads\/378\/bg.3.gif"},{"id":388,"level":"0","size":1,"type":"internal","partner_url":"http:\/\/ad.adriver.ru\/cgi-bin\/click.cgi?sid=1&amp;ad=557627&amp;bt=21&amp;pid=2341392&amp;bid=4455229&amp;bn=4455229&amp;rnd=1487138039","counter":1675,"bgImg":"\/\/sinst.fwdcdn.com\/_uploaded_files\/ads\/388\/bg.1.gif"}]},"ten_days_spread":[],"under_termometr":[],"right_rotate":false});
+                SIN.AdsLoader.loadAds();
+            }
+                    });
+    </script>
+
+    <noscript><img src="//ua.adriver.ru/cgi-bin/rle.cgi?sid=141297&bn=1&bt=21&pz=1&rnd=258290485" border=0 width=1 height=1><img src="//ua.adriver.ru/cgi-bin/rle.cgi?sid=141297&bn=6&bt=21&pz=3&rnd=609686989" border=0 width=1 height=1></noscript>
+    <script type="text/javascript" src="//sinst.fwdcdn.com/js/1/adriver.min.js"></script>
+
+    <script type="text/javascript">
+                var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        SIN.utility.load("//www.googletagservices.com/tag/js/gpt.js");
+                /*$(window).on('load', function(){*/
+        $(document).ready(function() {
+            var rand = Math.round(Math.random()*999999999), tail=escape(document.referrer||'unknown');
+            _gaq.push(['_trackEvent', 'Просмотры по странам', 'Погода в городе', 'ukraine']);                                               
+                /*SIN.utility.load(SIN.globals.STATIC_DOMAIN + "js/1/adriver.min.js", {cb: function() {*/
+                    SIN.utility.load("//target.ukr.net/?trunc=1&cb=onGeoData&get=70,71,72,100,101&set=YGVoMCAnOiUwbmBkaCA+JzQ8OzBuYGdoPTQnPjwj");
+                    SIN.utility.loadImageCounter("//ua.adriver.ru/cgi-bin/rle.cgi?sid=141297&bn=1&bt=21&pz=1&rnd=" + rand + "&tail256=" + tail);
+                    SIN.utility.loadImageCounter("//ua.adriver.ru/cgi-bin/rle.cgi?sid=141297&bn=6&bt=21&pz=3&rnd=" + rand + "&tail256=" + tail);
+
+                /*}
+                });*/
+
+                        googletag.cmd.push(function() {
+                googletag.defineSlot('/17774365/Sinoptik.ua_300x250', [[300, 107], [300, 250], [300, 300], [300, 400], [300, 500], [300, 600]], 'div-gpt-ad-1424965538378-0').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+                googletag.defineSlot('/66726531/Sinoptik.ua_Right_Bottom', [300, 250], 'div-gpt-ad-1452079463009-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+                googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                    if(event.isEmpty === false) {
+                        document.getElementById('div-gpt-ad-1424965538378-0').style.marginBottom = '15px';
+                        document.getElementById('div-gpt-ad-1452079463009-0').style.marginBottom = '15px';
+                    }
+                });
+                googletag.display('div-gpt-ad-1424965538378-0');
+                googletag.display('div-gpt-ad-1452079463009-0');
+
+                function refreshGBanners() {
+                    var _self = this; this.Btimer = null; this.BidleTime = 180000; this.curAct = 0; this.lastReload = new Date().getTime();
+                    this.refreshBanners = function() {
+                        if(document.getElementById('google_ads_iframe_/17774365/Sinoptik.ua_300x250_0__container__').getElementsByTagName('iframe')[0]){
+                            var iframe = document.getElementById('google_ads_iframe_/17774365/Sinoptik.ua_300x250_0__container__');
+                            iframe.setAttribute('style','border: none;');
+                            iframe.getElementsByTagName('iframe')[0].setAttribute('style','border: none; vertical-align: bottom;');
+                        }
+                        googletag.pubads().refresh();
+                    };
+                    this.checkActivity = function() {
+                        $(document).off('.IB');
+                        clearTimeout(this.Btimer);
+                        this.Btimer = setTimeout(function(){_self.Bhandler();},5000);
+                        this.curAct = new Date().getTime();
+                        if(this.curAct-this.lastReload>this.BidleTime) {
+                            this.refreshBanners();
+                            this.lastReload = this.curAct;
+
+                        }
+                    };
+                    this.Bhandler = function() {
+                        $(document).on('mousemove.IB scroll.IB focusin.IB keypress.IB', function(e) {
+                            _self.checkActivity();
+                        });
+                    };
+                    this.Bhandler();
+                }
+
+                refreshGBanners();
+
+            });
+
+                                    SIN.utility.load("//www.google-analytics.com/ga.js");
+            var d=document,n=navigator,s=screen;d.cookie="co=1";
+            SIN.utility.load('https://counter.ukr.net/weather/cnt.php?data=303027839,1,208&rand='+Math.random()+'&r='+escape(d.referrer)+'&p='+escape(window.location.href)+'&c='+(d.cookie?'y':'n')+'&fr='+(self!=top?'y':'n')+'&tz='+(new Date()).getTimezoneOffset()+'&j='+(n.javaEnabled()?'y':'n')+'&s='+s.width+'*'+s.height+'&d='+(s.colorDepth?s.colorDepth:s.pixelDepth)+'&js=y');
+            //var li=new Image();li.style.width=0;li.style.position='absolute';li.src="//counter.yadro.ru/hit?t44.11;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random();document.body.appendChild(li);
+            SIN.utility.loadImageCounter("//counter.yadro.ru/hit?t44.11;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random());
+            SIN.utility.load("//c.bigmir.net/?"+bs.join('&'));
+
+            
+        });
+
+        function onGeoData(data) {
+            var ri=0,ci=0,ct=1,skipCities={},serveTo=[],custom=[],showAPL=false,citiesId=SIN.utility.cookie('cities')||'';
+            if(data){for(;ri<data.g.regions.length;ri++){var regId=data.g.regions[ri].id;if(regId==1||regId==3||regId==11||regId==15){showAPL=true;}var cities=(data.g.regions[ri].cities);for(;ci<cities.length;ci++){if(!skipCities[cities[ci].id])serveTo.push(cities[ci].id);}}
+            for(;ct<=101;ct++){if(data.c[ct])custom[ct]=data.c[ct];}}
+            if(serveTo.length){for(var c=0;c<serveTo.length;c++){custom[80+c]=serveTo[c];}}else{custom[80]="noneGD";}
+            custom[50] = 'europe';
+            custom[51] = 'ukraine';
+            custom[52] = 'harkiv';
+            function getStd(){for(var i=0,j,s=[];i<custom.length;i++){if(custom[i])s.push(i+'='+escape(custom[i]))}return s.length?'&custom='+escape(s.join(';')):''};
+            new adriver("adriver_728x90_sinoptik", {sid:141297,bt:52,pz:1,bn:1,keyword:encodeURIComponent(citiesId),custom: custom});                                                new adriver("sinoptik_bot_line", {sid:141297,bt:52,pz:3,bn:5,keyword:encodeURIComponent(citiesId),custom: custom});
+            new adriver("adriver_210x55_sinoptik", {sid:141297,bt:52,pz:2,bn:5,keyword:encodeURIComponent(citiesId),custom: custom});
+            new adriver("adriver_210x67", {sid:141297,bt:52,pz:2,bn:4,keyword:encodeURIComponent(citiesId),custom:custom});
+            //new adriver("sin_300x250_cont_bott", {sid:141297, bt:52, bn:13, pz:2});
+                    }
+                var loadForAdmixer={setParams:function(prm){this.prm=prm||{}},loadFnc:function(id){new adriver(id,this.prm)}};
+        //var loadForAdmixer673={setStd:function(std){this.std=std||''},loadFnc:function(){adriverPoster("//ua.adriver.ru/cgi-bin/erle.cgi?sid=141297&bn=3&target=blank&bt=49&pz=3"+this.std,1);}};
+        function adriverPoster(L,arcn){
+            var W=window,D=document,E=D.documentElement,T=0,N=arcn||1,P=0,C=D.compatMode=="CSS1Compat",
+                X='<scr'+'ipt type="text/javascript">var ar_bnum='+N+';setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e)}},3000);',
+                Y='<\/sc'+'ript><sc'+'ript type="text/javascript" src="'+L+'&tail256='+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999)+'"><\/sc'+'ript>';
+            function G(){if(T++<100){var o=D.getElementById('ar_container_'+N);if(o){try{var d=o.contentDocument||(W.ActiveXObject&&W.frames['ar_container_'+N].document);if(d){d.write(X+Y)}else setTimeout(arguments.callee,100)}catch(e){try{o.src = "javascript:{document.write('"+X+'document.domain="'+D.domain+'";'+Y+"')}";return}catch(E){}}}else setTimeout(arguments.callee,100)}}
+            function A(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}
+            function R(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}
+            function S(){var ch=self.innerHeight||C&&E.clientHeight||D.body.clientHeight,st=self.pageYOffset||C&&E.scrollTop||D.body.scrollTop;if(P>=st&&st+ch>=P){R(W,'scroll',S);G()}}
+            var o=D.getElementById('ad_ph_'+N);if(o){while(o.offsetParent){P+=o.offsetTop;o=o.offsetParent}A(W,'scroll',S);S()};
+        }
+            </script>
+</body>
+</html>
