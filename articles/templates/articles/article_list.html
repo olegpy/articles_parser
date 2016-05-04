@@ -28,6 +28,9 @@ $(document).ready(function() {
             success: function(data) {
                 $('.block-article').empty();
                 ajax_success(data);
+                if (parseInt($input.val()) > data.length){
+                    $('.load_more').hide();
+                }
             }
         });
     });

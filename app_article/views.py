@@ -12,7 +12,7 @@ def parser(request):
     url_privat = "https://api.privatbank.ua/p24api/pubinfo?exchange&coursid=3"
 
     nbu_xml = pars_xml(url_nbu, 'export_nbu.xml')
-    nbu_privat = pars_xml(url_privat, 'export_nbu.xml')
+    nbu_privat = pars_xml(url_privat, 'export_privat.xml')
 
     return render(request, 'parser.html', {'data_privat': data_privat,
                                            'export_nbu_xml': nbu_xml,
